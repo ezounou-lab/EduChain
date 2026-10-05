@@ -44,3 +44,16 @@ Hash is anchored on blockchain
 Digital credential is issued
             ↓
 Third party can verify it
+
+## Documentation
+
+Technical documentation for EduChain is available in the [`docs/`](docs/) directory.
+
+### Guides
+
+* [Technical Documentation](docs/README.md)
+* [Project Architecture](docs/architecture.md)
+* [Installation Guide](docs/installation.md)
+* [Development Guide](docs/development.md)
+
+The documentation is designed to help both newcomers and experienced developers understand, install, develop, and contribute to EduChain.
