@@ -28,6 +28,19 @@ EduChain proposes a **hybrid architecture**:
 - The credential is associated with the student's identity.
 - Verification can be performed without exposing the student's complete academic record.
 
+## Documentation
+
+Technical documentation for EduChain is available in the [`docs/`](docs/) directory.
+
+### Guides
+
+* [Technical Documentation](docs/README.md)
+* [Project Architecture](docs/architecture.md)
+* [Installation Guide](docs/installation.md)
+* [Development Guide](docs/development.md)
+
+The documentation is designed to help both newcomers and experienced developers understand, install, develop, and contribute to EduChain.
+
 ## ⛓️ How It Works
 
 ```text
@@ -45,15 +58,3 @@ Digital credential is issued
             ↓
 Third party can verify it
 
-## Documentation
-
-Technical documentation for EduChain is available in the [`docs/`](docs/) directory.
-
-### Guides
-
-* [Technical Documentation](docs/README.md)
-* [Project Architecture](docs/architecture.md)
-* [Installation Guide](docs/installation.md)
-* [Development Guide](docs/development.md)
-
-The documentation is designed to help both newcomers and experienced developers understand, install, develop, and contribute to EduChain.
